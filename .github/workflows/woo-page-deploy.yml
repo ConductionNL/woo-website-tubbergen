@@ -11,7 +11,7 @@ env: # Change these to your preferences any image url can also be a base encoded
   JUMBOTRON_IMAGE_URL: "https://www.tubbergen.nl/sites/all/themes/tubbergen/dist/assets/img/header_tubbergen.jpg"
   FOOTER_LOGO_URL: "https://www.tubbergen.nl/sites/all/themes/tubbergen/logo.svg"
   FOOTER_LOGO_HREF: "https://tubbergen.nl/"
-  OIDN_NUMBER: " "
+  OIDN_NUMBER: "00000001002172859000"
 
 on:
   push:
