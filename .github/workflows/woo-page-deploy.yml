@@ -15,7 +15,7 @@ env: # Change these to your preferences any image url can also be a base encoded
   JUMBOTRON_IMAGE_URL: "https://www.tubbergen.nl/sites/all/themes/tubbergen/dist/assets/img/header_tubbergen.jpg"
   FOOTER_LOGO_URL: "https://www.tubbergen.nl/sites/all/themes/tubbergen/logo.svg"
   FOOTER_LOGO_HREF: "https://tubbergen.nl/"
-  FOOTER_CONTENT: '[{"title":"Algemeen","items":[{"label":"Website","value":"www.tubbergen.nl","link":"https://www.tubbergen.nl/"},{"label":"Privacy","value":"Privacy","link":"https://www.tubbergen.nl/"},{"label":"Toegankelijkheid","value":"Toegangelijkheid","link":"https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"},{"label":"Over deze website","value":"Over deze website","link":"https://www.tubbergen.nl/"}]}]'
+  FOOTER_CONTENT: '[{"title":"Algemeen","items":[{"label":"Website","value":"www.tubbergen.nl","link":"https://www.tubbergen.nl/"},{"label":"Privacy","value":"Privacy","link":"https://www.tubbergen.nl/"},{"label":"Toegankelijkheid","value":"Toegankelijkheid","link":"https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"},{"label":"Over deze website","value":"Over deze website","link":"https://www.tubbergen.nl/"}]}]'
   OIDN_NUMBER: "00000001002172859000"
 
 on:
