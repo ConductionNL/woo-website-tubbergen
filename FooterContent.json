@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Algemeen",
+        "items": [
+            {
+                "label": "Website",
+                "value": "www.tubbergen.nl",
+                "link": "https://www.tubbergen.nl/"
+            },
+            {
+                
+                "value": "Privacy",
+                "link": "https://www.tubbergen.nl/"
+            },
+            {
+                
+                "value": "Toegankelijkheid",
+                "link": "https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"
+            },
+            {
+                
+                "value": "Over deze website",
+                "link": "https://www.tubbergen.nl/"
+            }
+        ]
+    }
+]
